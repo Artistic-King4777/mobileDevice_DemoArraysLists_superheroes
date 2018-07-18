@@ -172,8 +172,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="992" />
+    <option name="y" value="8" />
     <option name="width" value="935" />
-    <option name="height" value="1038" />
+    <option name="height" value="1029" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -376,7 +377,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="794" y="0" width="748" height="830" extended-state="0" />
+    <frame x="794" y="7" width="748" height="823" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -390,7 +391,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32267442" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.6468023" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
